@@ -3,5 +3,5 @@
 
 #### Here is the outcome
 
-![Alt text](images/img-tea-cozy-redline.jpg?raw=true "The result")
+![Alt text](images/result.png?raw=true "The result")
 
